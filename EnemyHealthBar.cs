@@ -25,7 +25,7 @@ public class EnemyHealthBar : MonoBehaviour {
 	//Skrypt ma wyświetlać malutki pasek HP nad przeciwnikiem. Nie od samego początku, natomiast dopiero wtedy gdy przeciwnik dostanie na pizdeczke. 
 	//Problem mam taki, że pozycje tego paska HP dla każdego obiektu trzeba obliczać cały czas i mam takie jakieś przeczucie, że zrobiłem to chujowo xD
 	//Natomiast podoba mi sie to, że w edytorze nie potrzebuje tworzyć jakichś nowych jebanych transformów i jebać się z obiektami, bo wszystko tworzy mi się samo
-	//Aczkolwiek no kurwa, nie wiem czy to jest aby optymalne, rzuć okiem i powiedz co o tym sądzisz.
+	//Aczkolwiek no motyla noga, nie wiem czy to jest aby optymalne, rzuć okiem i powiedz co o tym sądzisz.
 
 
 
